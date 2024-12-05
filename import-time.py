@@ -181,6 +181,6 @@ def scrape_social_media_profiles(keywords, location, max_pages=20):
 
 # Run the script
 if __name__ == "__main__":
-    keywords = ["vetement femme", "sac femme", "boutique online", "bébé vetement", "vetement homme", "jouer des enfants", "handmade"]
+    keywords = ["your-keyword"]
     location = "Blida"
     scrape_social_media_profiles(keywords, location, max_pages=25)
