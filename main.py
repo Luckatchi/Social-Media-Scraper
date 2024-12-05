@@ -182,5 +182,5 @@ def scrape_social_media_profiles(keywords, location, max_pages=20):
 # Run the script
 if __name__ == "__main__":
     keywords = ["your-keyword"]
-    location = "Blida"
-    scrape_social_media_profiles(keywords, location, max_pages=25)
+    location = "your-location"
+    scrape_social_media_profiles(keywords, location, max_pages=25) # Numbers of page in google search engine
